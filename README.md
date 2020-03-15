@@ -12,7 +12,7 @@ The repository contains code on how to train and export a DNN linear combined cl
 predictions.
 This work is inspired by [wide and deep model](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
 
-##Usage 
+## Usage 
 
 ## Training and exporting model
 You can run the code locally as follows:
